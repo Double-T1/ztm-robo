@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ztm-robo/static/css/main.096c2b5a.chunk.css",
+    "main.js": "/ztm-robo/static/js/main.e83d4cdf.chunk.js",
+    "main.js.map": "/ztm-robo/static/js/main.e83d4cdf.chunk.js.map",
+    "runtime-main.js": "/ztm-robo/static/js/runtime-main.3ee9d738.js",
+    "runtime-main.js.map": "/ztm-robo/static/js/runtime-main.3ee9d738.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/ztm-robo/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9f07773a.chunk.js": "/ztm-robo/static/js/2.9f07773a.chunk.js",
+    "static/js/2.9f07773a.chunk.js.map": "/ztm-robo/static/js/2.9f07773a.chunk.js.map",
+    "static/js/3.2bd8ac47.chunk.js": "/ztm-robo/static/js/3.2bd8ac47.chunk.js",
+    "static/js/3.2bd8ac47.chunk.js.map": "/ztm-robo/static/js/3.2bd8ac47.chunk.js.map",
+    "index.html": "/ztm-robo/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/ztm-robo/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.096c2b5a.chunk.css.map": "/ztm-robo/static/css/main.096c2b5a.chunk.css.map",
+    "static/js/2.9f07773a.chunk.js.LICENSE.txt": "/ztm-robo/static/js/2.9f07773a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ztm-robo/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ee9d738.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9f07773a.chunk.js",
+    "static/css/main.096c2b5a.chunk.css",
+    "static/js/main.e83d4cdf.chunk.js"
+  ]
+}
